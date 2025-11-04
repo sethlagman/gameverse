@@ -1,0 +1,302 @@
+[
+  {
+    "title": "Elden Ring",
+    "platform": "PC",
+    "publisher": "FromSoftware",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5s5h.jpg",
+    "description": "A new fantasy action RPG.",
+    "genre": "RPG, Action",
+    "releaseDate": "2022-02-25"
+  },
+  {
+    "title": "God of War",
+    "platform": "PS5",
+    "publisher": "Santa Monica Studio",
+    "price": 49.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1tmu.jpg",
+    "description": "Kratos embarks on a journey with his son.",
+    "genre": "Action",
+    "releaseDate": "2018-04-20"
+  },
+  {
+    "title": "Forza Horizon 5",
+    "platform": "Xbox",
+    "publisher": "Playground Games",
+    "price": 39.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2mjs.jpg",
+    "description": "Open-world racing in Mexico.",
+    "genre": "Racing",
+    "releaseDate": "2021-11-09"
+  },
+  {
+    "title": "The Legend of Zelda: Tears of the Kingdom",
+    "platform": "Switch",
+    "publisher": "Nintendo",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6b3l.jpg",
+    "description": "Explore the skies and depths of Hyrule.",
+    "genre": "Adventure",
+    "releaseDate": "2023-05-12"
+  },
+  {
+    "title": "Spider-Man 2",
+    "platform": "PS5",
+    "publisher": "Insomniac Games",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6g5h.jpg",
+    "description": "Peter and Miles face new threats.",
+    "genre": "Action",
+    "releaseDate": "2023-10-20"
+  },
+  {
+    "title": "Starfield",
+    "platform": "PC",
+    "publisher": "Bethesda",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6j7i.jpg",
+    "description": "Epic space RPG adventure.",
+    "genre": "RPG, Sci-Fi",
+    "releaseDate": "2023-09-06"
+  },
+  {
+    "title": "Horizon Forbidden West",
+    "platform": "PS5",
+    "publisher": "Guerrilla Games",
+    "price": 49.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2gvu.jpg",
+    "description": "Aloy ventures into the West.",
+    "genre": "Action RPG",
+    "releaseDate": "2022-02-18"
+  },
+  {
+    "title": "Mario Kart 8 Deluxe",
+    "platform": "Switch",
+    "publisher": "Nintendo",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r7b.jpg",
+    "description": "Fast-paced kart racing.",
+    "genre": "Racing",
+    "releaseDate": "2017-04-28"
+  },
+  {
+    "title": "Gran Turismo 7",
+    "platform": "PS5",
+    "publisher": "Polyphony Digital",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2o2x.jpg",
+    "description": "Real driving simulator.",
+    "genre": "Racing, Simulation",
+    "releaseDate": "2022-03-04"
+  },
+  {
+    "title": "Cyberpunk 2077",
+    "platform": "PC",
+    "publisher": "CD PROJEKT RED",
+    "price": 29.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6k1r.jpg",
+    "description": "Open-world action RPG in Night City.",
+    "genre": "RPG",
+    "releaseDate": "2020-12-10"
+  },
+  {
+    "title": "Resident Evil 4 Remake",
+    "platform": "PS5",
+    "publisher": "Capcom",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6r8u.jpg",
+    "description": "A modern reimagining of the survival horror classic.",
+    "genre": "Horror, Action",
+    "releaseDate": "2023-03-24"
+  },
+  {
+    "title": "Assassin’s Creed Mirage",
+    "platform": "PC",
+    "publisher": "Ubisoft",
+    "price": 49.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6l9k.jpg",
+    "description": "Return to the roots of stealth and parkour in Baghdad.",
+    "genre": "Action, Adventure",
+    "releaseDate": "2023-10-05"
+  },
+  {
+    "title": "Baldur’s Gate 3",
+    "platform": "PC",
+    "publisher": "Larian Studios",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6y9h.jpg",
+    "description": "An epic RPG set in the Dungeons & Dragons universe.",
+    "genre": "RPG, Strategy",
+    "releaseDate": "2023-08-03"
+  },
+  {
+    "title": "Red Dead Redemption 2",
+    "platform": "PC",
+    "publisher": "Rockstar Games",
+    "price": 39.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1q1h.jpg",
+    "description": "Outlaws and redemption in the dying Wild West.",
+    "genre": "Action, Adventure",
+    "releaseDate": "2018-10-26"
+  },
+  {
+    "title": "Call of Duty: Modern Warfare III",
+    "platform": "PC",
+    "publisher": "Activision",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6t5k.jpg",
+    "description": "The next generation of tactical warfare.",
+    "genre": "Shooter",
+    "releaseDate": "2023-11-10"
+  },
+  {
+    "title": "The Witcher 3: Wild Hunt",
+    "platform": "PC",
+    "publisher": "CD PROJEKT RED",
+    "price": 29.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1r0j.jpg",
+    "description": "A monster-slaying adventure through a vast open world.",
+    "genre": "RPG",
+    "releaseDate": "2015-05-19"
+  },
+  {
+    "title": "Final Fantasy VII Remake",
+    "platform": "PS5",
+    "publisher": "Square Enix",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2lb2.jpg",
+    "description": "A reimagining of the iconic JRPG classic.",
+    "genre": "RPG, Action",
+    "releaseDate": "2020-04-10"
+  },
+  {
+    "title": "Overwatch 2",
+    "platform": "PC",
+    "publisher": "Blizzard Entertainment",
+    "price": 0.00,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6b9p.jpg",
+    "description": "Team-based shooter with new heroes and modes.",
+    "genre": "Shooter, Multiplayer",
+    "releaseDate": "2022-10-04"
+  },
+  {
+    "title": "Diablo IV",
+    "platform": "PC",
+    "publisher": "Blizzard Entertainment",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6b6r.jpg",
+    "description": "Return to the dark world of Sanctuary.",
+    "genre": "RPG, Action",
+    "releaseDate": "2023-06-06"
+  },
+  {
+    "title": "Street Fighter 6",
+    "platform": "PS5",
+    "publisher": "Capcom",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6k2j.jpg",
+    "description": "Next-gen fighting game with global appeal.",
+    "genre": "Fighting",
+    "releaseDate": "2023-06-02"
+  },
+  {
+    "title": "Alan Wake 2",
+    "platform": "PC",
+    "publisher": "Remedy Entertainment",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6z5j.jpg",
+    "description": "A psychological horror sequel to the cult classic.",
+    "genre": "Horror, Thriller",
+    "releaseDate": "2023-10-27"
+  },
+  {
+    "title": "Ghost of Tsushima",
+    "platform": "PS5",
+    "publisher": "Sucker Punch Productions",
+    "price": 49.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2jfl.jpg",
+    "description": "A samurai’s journey in feudal Japan.",
+    "genre": "Action, Adventure",
+    "releaseDate": "2020-07-17"
+  },
+  {
+    "title": "Persona 5 Royal",
+    "platform": "PS5",
+    "publisher": "Atlus",
+    "price": 39.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co2w2k.jpg",
+    "description": "Live the life of a Phantom Thief and change hearts.",
+    "genre": "RPG",
+    "releaseDate": "2019-10-31"
+  },
+  {
+    "title": "Sekiro: Shadows Die Twice",
+    "platform": "PC",
+    "publisher": "FromSoftware",
+    "price": 39.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co1w2h.jpg",
+    "description": "Action-packed combat set in Sengoku Japan.",
+    "genre": "Action, Adventure",
+    "releaseDate": "2019-03-22"
+  },
+  {
+    "title": "Mortal Kombat 1",
+    "platform": "PS5",
+    "publisher": "NetherRealm Studios",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6v7i.jpg",
+    "description": "A reimagined universe with brutal fighting action.",
+    "genre": "Fighting",
+    "releaseDate": "2023-09-19"
+  },
+  {
+    "title": "Hogwarts Legacy",
+    "platform": "PC",
+    "publisher": "Warner Bros. Games",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6d5g.jpg",
+    "description": "An open-world RPG set in the wizarding world.",
+    "genre": "RPG, Adventure",
+    "releaseDate": "2023-02-10"
+  },
+  {
+    "title": "Dead Space Remake",
+    "platform": "PC",
+    "publisher": "Electronic Arts",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6a5m.jpg",
+    "description": "The sci-fi horror classic rebuilt for modern hardware.",
+    "genre": "Horror, Sci-Fi",
+    "releaseDate": "2023-01-27"
+  },
+  {
+    "title": "FIFA 24 (EA Sports FC 24)",
+    "platform": "PC",
+    "publisher": "Electronic Arts",
+    "price": 69.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co6h8o.jpg",
+    "description": "The evolution of football gaming continues.",
+    "genre": "Sports",
+    "releaseDate": "2023-09-29"
+  },
+  {
+    "title": "A Plague Tale: Requiem",
+    "platform": "PC",
+    "publisher": "Asobo Studio",
+    "price": 49.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5x6r.jpg",
+    "description": "Continue the harrowing journey of Amicia and Hugo.",
+    "genre": "Adventure, Action",
+    "releaseDate": "2022-10-18"
+  },
+  {
+    "title": "Battlefield 2042",
+    "platform": "PC",
+    "publisher": "Electronic Arts",
+    "price": 59.99,
+    "thumbnailUrl": "https://images.igdb.com/igdb/image/upload/t_cover_big/co5x7m.jpg",
+    "description": "Massive-scale warfare returns to the Battlefield franchise.",
+    "genre": "Shooter, Action",
+    "releaseDate": "2021-11-19"
+  }
+]

@@ -2,6 +2,7 @@ com\gameverse\order\Address.class
 com\gameverse\order\OrderItem.class
 com\gameverse\order\OrderController$CreateOrderRequest.class
 com\gameverse\bootstrap\DataLoader.class
+com\gameverse\bootstrap\DataLoader$1.class
 com\gameverse\GameverseApplication.class
 com\gameverse\order\OrderController.class
 com\gameverse\order\OrderRepository.class
