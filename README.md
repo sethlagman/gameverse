@@ -1,6 +1,6 @@
 # GameVerse – E‑commerce for Video Games
 
-GameVerse is a full‑stack e‑commerce sample:
+GameVerse is a full‑stack e‑commerce application:
 - Angular frontend (standalone components, cart, wishlist, checkout)
 - Spring Boot backend (H2 in‑memory DB with seed data)
 - Optional Docker setup for local orchestration
@@ -46,7 +46,3 @@ docker compose up --build
 - `src/app/pages` – Product list/detail, Cart, Wishlist, Checkout
 - `src/app/services` – Product, Cart, Wishlist, Order services
 - `backend` – Spring Boot app with Products and Orders
-
-## Notes
-- Data persists in memory (H2) for demo purposes.
-- Update `app.cors.allowed-origins` in `backend/src/main/resources/application.properties` if serving frontend from a different origin.
