@@ -1,0 +1,14 @@
+com\gameverse\order\Address.class
+com\gameverse\order\OrderItem.class
+com\gameverse\order\OrderController$CreateOrderRequest.class
+com\gameverse\bootstrap\DataLoader.class
+com\gameverse\GameverseApplication.class
+com\gameverse\order\OrderController.class
+com\gameverse\order\OrderRepository.class
+com\gameverse\order\OrderController$CreateOrderResponse.class
+com\gameverse\order\Order.class
+com\gameverse\product\ProductController.class
+com\gameverse\order\OrderController$OrderItemDTO.class
+com\gameverse\product\Product.class
+com\gameverse\product\ProductRepository.class
+com\gameverse\config\CorsConfig.class
